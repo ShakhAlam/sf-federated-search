@@ -3,7 +3,7 @@
 	<ShortName>Salesforce Federated Search and Watson Discovery</ShortName>
 	<Contact>none</Contact>
 	<Url type="application/atom+xml" sfdc:maxTotalResults="500"
-template="https://{{hostname}}/ossInterface?q={searchTerms}&byId={sfdc:searchById?}&type={sfdc:recordType}&start={startIndex?}#={count?}"/>
+template="https://{{hostname}}/ossInterface?q={searchTerms}&amp;byId={sfdc:searchById?}&amp;type={sfdc:recordType}&amp;start={startIndex?}#={count?}"/>
 	<sfdc:RecordTypes>
 		<sfdc:RecordType name="Watson Discovery">
 			<sfdc:Field name="Author" type="string" sortable="true"/>
