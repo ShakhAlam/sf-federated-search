@@ -19,7 +19,7 @@ Follow the IBM instructions 1-4 as described [here](https://console.bluemix.net/
 
 The easiest way to test the application on your own is deploying it to [Heroku](https://www.heroku.com) via the Deploy button.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/muenzpraeger/salesforce-federated-search-watson-discovery)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ShakhAlam/sf-federated-search)
 
 After the deployment you have to enter the configuration values for the app as following:
 
